@@ -1,4 +1,4 @@
-# 🔧 Project Creator (cr)
+# 🔧 Folder-File Maker(cr)
 
 A simple but powerful Bash CLI tool to automate project folder creation and file initialization. Supports Python, Bash, YAML, and Text files. Installed globally as a command (`cr`) by moving it to `/usr/local/bin`.
 
